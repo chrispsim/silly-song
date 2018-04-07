@@ -1,4 +1,4 @@
-# Silly_Song_iOS
+# Silly-Song-iOS
 ## Udacity iOS ND Project
 
 ## App Description
